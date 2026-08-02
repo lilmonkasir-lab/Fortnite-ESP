@@ -1,0 +1,10 @@
+# build output
+build/
+
+# compiler side artifacts
+bin/*.pdb
+bin/*.lib
+bin/*.exp
+
+# host log files written next to the DLL
+*.log
