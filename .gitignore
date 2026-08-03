@@ -1,0 +1,20 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+build/
+dist/
+
+# Local host descriptors and user scripts
+.lua-injection/
+
+# Editor / OS files
+.DS_Store
+.vscode/
+.idea/
